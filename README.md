@@ -1,6 +1,6 @@
 # US-Domestic-Airline-Flights-Interactive-Dashboard
 
-##Story:
+## Story:
 As a data analyst, you have been given a task to monitor and report US domestic airline flights performance. Goal is to analyze the performance of the reporting airline to improve flight reliability thereby improving customer reliability.
 
 Below are the key report items,
@@ -9,7 +9,7 @@ Yearly airline performance report
 Yearly average flight delay statistics
 NOTE: Year range is between 2005 and 2020.
 
-##Components of the report items
+## Components of the report items
 
 Yearly airline performance report
 
@@ -32,7 +32,7 @@ Monthly average late aircraft delay by reporting airline for the given year.
 NOTE: You have worked created the same dashboard components in Flight Delay Time Statistics Dashboard section. We will be reusing the same.
 
 
-##Requirements to create the expected result
+## Requirements to create the expected result
 
 Two dropdown menus: For choosing report type and year
 Each dropdown will be designed as follows:
